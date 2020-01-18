@@ -1,0 +1,27 @@
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\b151210015_odev2.exe.config
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\b151210015_odev2.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\b151210015_odev2.Properties.Resources.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\b151210015_odev2.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.exe.config
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.Properties.Resources.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.exe.config
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.exe
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.exe
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\bin\Debug\b151210015_odev2.pdb
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\b151210015_odev2.Properties.Resources.resources
+C:\Users\Eda\Desktop\NDPyuklenenodevler\b151210015.odev2\b151210015\b151210015_odev2\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
